@@ -6,4 +6,4 @@ Also, I'll try make my solution as concise as possible. Obviously, it's going to
 
 ### Status
 
-https://img.shields.io/badge/Solved-23%2F156-green.svg
+![Status](https://img.shields.io/badge/Solved-23%2F156-green.svg)
