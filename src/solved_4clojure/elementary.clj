@@ -83,3 +83,6 @@ true
 
 ;; 20
 #(second (reverse %))
+
+;; 161
+#{1 2}
