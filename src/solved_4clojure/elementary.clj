@@ -71,10 +71,10 @@ true
  ;; 64
  +
 
- ;;  
+ ;;
 
 ;; 19 Implement (last li)
-(fn my-last [li] 
+(fn my-last [li]
   (cond (empty? (rest li)) (first li)
         :else (my-last (rest li))))
 
