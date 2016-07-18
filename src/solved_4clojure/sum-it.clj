@@ -2,3 +2,7 @@
 
 (fn sum-it [li] (cond (empty? li) 0
                :else (+ (first li) (sum-it (rest li)))))
+
+
+;; Simpler built-in function
+apply +
