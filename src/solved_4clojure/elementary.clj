@@ -84,5 +84,8 @@ true
 ;; 20
 #(second (reverse %))
 
+;; 25 Write a function which returns only the odd numbers from a sequence.
+#(filter odd? %)
+
 ;; 161
 #{1 2}
