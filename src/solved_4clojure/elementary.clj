@@ -87,6 +87,9 @@ true
 ;; 25 Write a function which returns only the odd numbers from a sequence.
 #(filter odd? %)
 
+;; 52
+[c e]
+
 ;; ## 68
 ;; Clojure only has one non-stack-consuming looping construct: recur.
 ;; Either a function or a loop can be used as the recursion point.
@@ -152,3 +155,8 @@ reduce +
 (range 1 38 4)
 ;; 161
 #{1 2}
+
+;; 162
+1
+
+
