@@ -87,6 +87,9 @@ true
 ;; 25 Write a function which returns only the odd numbers from a sequence.
 #(filter odd? %)
 
+;; 48
+6
+
 ;; 52
 [c e]
 
