@@ -1,4 +1,4 @@
-;; Write a function which returns the first X fibonacci numbers.
+is;; Write a function which returns the first X fibonacci numbers.
 ;; The solution is of the form (map <some function> <over some list>)
 
 

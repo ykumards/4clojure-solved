@@ -65,6 +65,20 @@ true
  ;; 37
  "ABC"
 
+;; 45
+;; The iterate function can be used to produce an infinite lazy sequence.
+(= '(1 4 7 10 13) (take 5 (iterate #(+ 3 %) 1)))
+
+;; 47
+;; The contains? function checks if a KEY is present in a given
+;; collection. This often leads beginner clojurians to use it 
+;; incorrectly with numerically indexed collections like vectors 
+;; and lists.
+;; (not (contains? [1 2 4] __)) value 4 is at index 3 and contains?
+;; checks for the index not value
+;; Use contains? only with maps to avoid this confusion
+4
+
  ;; 57
  '(5 4 3 2 1)
 
