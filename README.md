@@ -6,7 +6,7 @@ Also, I'll try make my solution as concise as possible. Obviously, it's going to
 
 ### Status
 
-![Status](https://img.shields.io/badge/Solved-60%2F156-green.svg)
+![Status](https://img.shields.io/badge/Solved-62%2F156-green.svg)
 
 ---
 This project was inspired by similar attempts by [katox](https://github.com/katox/4clojure-solutions), [qiuxiafei](https://github.com/qiuxiafei/4clojure), [prakhar1989](https://github.com/prakhar1989/4clojure-solutions)...
